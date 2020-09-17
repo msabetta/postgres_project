@@ -1,0 +1,7 @@
+Amazon RDS - postgresql
+-----------------------
+DB identifier: postgresqldb-1
+Master username: postgres
+Master password: Almaviva2020
+Endpoint: postgresqldb-1.chxwn9c26k2p.eu-west-3.rds.amazonaws.com
+port: 5432
